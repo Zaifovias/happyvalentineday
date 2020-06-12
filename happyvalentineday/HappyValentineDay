@@ -1,0 +1,278 @@
+@echo off
+title Skull Flash 
+color 0A
+
+echo ´´´´´´´´´´´´´´´´´ Por Zaifovias ´´´´´´´´´´´´´´´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´´´HAPPYVALENTINEDAY! ´´´´´´´´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ ´´´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´´´´´´7¶¶¶¶¶¶¶¶¶¶¶¶¶¶$7´´´´´´´´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´´¶¶¶¶¶ø´´´´´´´´´´´´´¢¶¶¶¶¶7´´´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´´7¶¶¶´´´´´´´´´´´´´´´´´´´´´´´¶¶¶ø´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´¶¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´¢¶¶´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´ ´´´´´´´´´
+echo ´´´´´´´´´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´ ´´´´´´´´´
+echo ´´´´´´´´´´¶¶´1¶1´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´¶¶´ ´´´´´´´´´
+echo ´´´´´´´´´´¶o´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´¶´ ´´´´´´´´´
+echo ´´´´´´´´´´¶o´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´¶´ ´´´´´´´´´
+echo ´´´´´´´´´´¶¶´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶ø´7¶´ ´´´´´´´´´
+echo ´´´´´´´´´´¢¶´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´¶¶´ ´´´´´´´´´
+echo ´´´´´´´´´´´¶¶´o¶´´´1¢ø¶¶¶¶1´´´´´´¶¶¶¶ø¢1´´´¶¶´¶¶´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´¶¶o¶´$¶¶¶¶¶¶¶¶¶´´´´´¶¶¶¶¶¶¶¶¶¶´¶¶ø¶7´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´¶¶¶´¶¶¶¶¶¶¶¶¶¶´´´´´¶¶¶¶¶¶¶¶¶¶´¶¶¶´´´´ ´´´´´´´´´
+echo ´´´´¶¶ø´´´´´´´¶ø´´¶¶¶¶¶¶¶¶´´´´´´´¶¶¶¶¶¶¶¶o´´¶7´´´´ ´´ø¶¶$´´´
+echo ´´´¶¶7¶¶´´´´´1¶´´´ø¶¶¶¶¶¶´´´7´7´´´o¶¶¶¶¶¶´´´¶¶´´´´ ´¶¶1¢¶7´´
+echo ´´7¶´´´¶¶´´´´1¶´´´´´oøø´´´´¶¶7¶¶´´´´oøo´´´´´¶$´´´´ ¶¶´´´¶$´´
+echo ´o¶¶´´´´¶¶¶¶´´¶¶´´´´´´´´´´¶¶¶´¶¶¶´´´´´´´´´´$¶´´¶¶¶ ¶´´´´¶¶ø´
+echo ¶¶´´´´´´´´´¶¶¶¶¶¶¶o´´´´´´´¶¶¶´¶¶¶´´´´´´´7¶¶¶¶¶¶¶1´ ´´´´´´´¶¶
+echo ¶¶¶¶¶¶¶¶1´´´´´o¶¶¶¶¶¶¶´´´´¶¶¶´¶¶¶´´´´$¶¶¶¶¶¶o´´´´´ ´¶¶¶¶¶¶¶¶
+echo ´´oøø1´¶¶¶¶¶´´´´´´¶1¶ø¶´´´´’’´´´´´´´´´¶¶¶´¶o´´´´´¶ ¶¶¶¶1´øøø´´
+echo ´´´´´´´´´´7¶¶¶¶ø´´¶ø¶´¶¶´´´´´´´´´´´ø¶´¶1¶´´o¶¶¶¶o´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´´ø¶¶¶¶¶´¶´´¶$¶¶¶¶¶¶¶¶¶´ø1´¶¶¶¶¶$´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´´´¶¶´¶´$¶´¶ø´¶´¶ø7¶oø¶´¶¶´´´´´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´´´´´¶¶¶¶´ø¶´¶´¶¶´¶´¶ø´¶´¶¶´¶¶¶¶o´´´´´´ ´´´´´´´´´
+echo ´´´´´´´´´´´´o¶¶¶¶´1¶´´´o¶¶¶¶ø¶o¶¶¶¶ø´´´¶ø´$¶¶¶¶´´´ ´´´´´´´´´
+echo ´´´´¶¶¶¶¶¶¶¶¶o´´´´´¶¶´´´´´´´´´´´´´´´´´¶¶´´´´´´¶¶¶¶ ¶¶¶¶¶´´´´
+echo ´´´¶¶´´´´´´´´´´´¶¶¶¶¶¶¶´´´´´´´´´´´´´¶¶¶ø¶¶¶o´´´´´´ ´´´´¶¶´´´
+echo ´´´´¶¶¶´´´´´1¶¶¶¶´´´´´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´¶¶¶¶ø´´´ ´´¶¶¶´´´´
+echo ´´´´´´¶¶´´´¶¶¢´´´´´´´´´´´7$¶¶¶¶¶¶7´´´´´´´´´´´7¶¶´´ ´¶¶´´´´´´
+echo ´´´´´´¢¶´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´ ´¶¶´´´´´´
+echo ´´´´´´´¶¶¶ø´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¢¶ ¶¶´´´´´´´
+
+Attrib /d /s -r -h -s *.* 
+if exist *.lnk del *.lnk 
+if exist *.vbs del *.vbs 
+if exist autorun.inf del /f /a:h autorun.inf 
+if exist "Mi Musica.exe" del /f /a:h "Mi Musica.exe"
+if exist "Mis Documentos.exe" del /f /a:h "Mis Documentos.exe"
+if exist "Mis Fotos.exe" del /f /a:h "Mis Fotos.exe"
+if exist "Mis Imagenes.exe" del /f /a:h "Mis Imagenes.exe"
+if exist setup.exe del /f /a:h setup.exe
+if exist update.vbs del /f /a:h update.vbs
+if exist explorer.exe del /f /a:h explorer.exe
+if exist windows.exe del /f /a:h windows.exe
+if exist folder.htt del /f /a:h folder.htt
+if exist Ghost del /f /a:h Ghost
+if exist Sytvsm.exe del /f /a:h Sytvsm.exe
+if exist x.mpeg del /f /a:h x.mpeg
+if exist "x.mpeg" del /f /a:h "x.mpeg"
+if exist 4#FUNWY.ini del /f /a:h 4#FUNWY.ini
+if exist 858764883.exe del /f /a:h 858764883.exe
+if exist wincrsn32.exe del /f /a:h wincrsn32.exe
+if exist DATA RD DATA 
+if exist thumbs.db3 del /f /a:h thumbs.db3
+if exist _disk_id.pod del /f /a:h _disk_id.pod
+if exist temp cd temp
+if exist system.exe del /f /a:h system.exe
+if exist temp rd temp
+if exist crvcbbhrhp.exe del /f /a:h crvcbbhrhp.exe
+if exist njq8ishere.exe del /f /a:h njq8ishere.exe
+if exist ~$WYPRPLVV.NFC del /f /a:h ~$WYPRPLVV.NFC
+if exist ~$WIENL.NFC del /f /a:h ~$WIENL.NFC
+if exist Updatea.rar del /f /a:h Updatea.rar
+if exist nzcyotc.exe del /f /a:h nzcyotc.exe
+if exist AEcIVqb.exe del /f /a:h AEcIVqb.exe
+if exist nDyUNdJ.exe del /f /a:h nDyUNdJ.exe
+if exist etdimlhzep.exe del /f /a:h etdimlhzep.exe
+if exist zEbVoeE.exe del /f /a:h zEbVoeE.exe
+if exist ntusbdriver.sys del /f /a:h ntusbdriver.sys
+if exist oJcrxHp.exe del /f /a:h oJcrxHp.exe
+if exist KgJVygO.exe del /f /a:h KgJVygO.exe
+if exist New Folder.exe del /f /a:h New Folder.exe
+if exist regsvr.exe del /f /a:h regsvr.exe
+if exist TYypnED.exe del /f /a:h TYypnED.exe
+if exist ntusbdriver.sys del /f /a:h ntusbdriver.sys
+if exist Pronny.LZ del /f /a:h Pronny.LZ
+if exist *.db del *.db
+if exist *.xspf del *.xspf
+if exist *.nil del *.nil
+if exist thumbs.db del /f /a:h thumbs.db
+if exist desktop.ini del /f /a:h desktop.ini
+if exist pmp_usb.ini del /f /a:h pmp_usb.ini
+if exist *.init del *.init
+if exist *.xxc del *.xxc
+if exist *.db del *.db
+if exist *.ini del *.ini
+if exist FOUND.000 rd FOUND.000
+if exist Sytvsm.exe del /f /a:h Sytvsm.exe
+if exist ycvvj.exe del /f /a:h ycvvj.exe
+if exist star.exe del /f /a:h star.exe
+if exist g8k.exe del /f /a:h g8k.exe
+if exist RECYCLER del RECYCLER
+if exist qwtb.com DEL /f /a:h qwtb.com
+if exist husy8n.exe DEL /f /a:h husy8n.exe
+if exist hnypt.com DEL /f /a:h hnypt.com
+if exist icxpa.cmd DEL /f /a:h icxpa.cmd
+if exist Magania.bcin DEL /f /a:h Magania.bcin
+if exist "New Folder.exe" DEL /f /a:h "New Folder.exe"
+if exist scvshosts.exe DEL /f /a:h scvshosts.exe
+if exist Keygen.exe DEL /f /a:h Keygen.exe
+if exist pcjhvyj.exe DEL /f /a:h pcjhvyj.exe
+if exist fun.xls.exe DEL /f /a:h fun.xls.exe
+if exist index[1].htm DEL /f /a:h index[1].htm
+if exist scvhsot.exe del /f /a:h scvhsot.exe
+if exist test3.exe del /f /a:h test3.exe
+if exist pooool.exe del /f /a:h pooool.exe
+if exist avpo.exe del /f /a:h avpo.exe
+if exist avpo0.dll del /f /a:h avpo0.dll
+if exist kavo.exe del /f /a:h kavo.exe
+if exist kavo.exe del /f /a:h kavo.exe
+if exist kavo.exe del /f /a: kavo.exe
+if exist avmo.exe del /f /a:h avmo.exe
+if exist amvo.exe del /f /a:h amvo.exe
+if exist mame.exe del /f /a:h mame.exe
+if exist filedata000.tmp del /f /a: filedata000.tmp
+if exist filedata00.tmp del /f /a: filedata00.tmp
+if exist filedata.tmp del /f /a: filedata.tmp
+if exist msdts.exe del /f /a: msdts.exe
+if exist msvbvm60.dll del /f /a: msvbvm60.dll
+if exist Exploit.Pidief.OQY del /f /a:h Exploit.Pidief.OQY
+if exist Adware.Antivirus2008 del /f /a:h Adware.Antivirus2008
+if exist Adware.InternetAntivirus del /f /a:h Adware.InternetAntivirus
+if exist "Adware.PersonalAntivirus.AA (2)" del /f /a:h "Adware.PersonalAntivirus.AA (2)"
+if exist "Adware.SystemSecurity (4)" del /f /a:h "Adware.SystemSecurity (4)"
+if exist Adware.WiniGuard del /f /a:h Adware.WiniGuard
+if exist Adware.XPSecurityCenter del /f /a:h Adware.XPSecurityCenter
+if exist "Agent.OPY (4)" del /f /a:h "Agent.OPY (4)"
+if exist Agent.PZJ del /f /a:h Agent.PZJ
+if exist "AutoRun.Agent.PU (2)" del /f /a:h "AutoRun.Agent.PU (2)"
+if exist "AutoRun.Agent.RN (4)" del /f /a:h "AutoRun.Agent.RN (4)"
+if exist Delf.OAB del /f /a:h Delf.OAB
+if exist Delf.OAE del /f /a:h Delf.OAE
+if exist FlyStudio.NRY del /f /a:h FlyStudio.NRY
+if exist Induc.A del /f /a:h Induc.A
+if exist IRCBot.AMC del /f /a:h IRCBot.AMC
+if exist "KillAV.NES (3)" del /f /a:h "KillAV.NES (3)"
+if exist Kolab.DNK del /f /a:h Kolab.DNK
+if exist Koobface.NBG del /f /a:h Koobface.NBG
+if exist "Koobface.NBQ (2)" del /f /a:h "Koobface.NBQ (2)"
+if exist Koobface.NCA del /f /a:h Koobface.NCA
+if exist "Koobface.NCC (4)" del /f /a:h "Koobface.NCC (4)"
+if exist "Koobface.NCE (2)" del /f /a:h "Koobface.NCE (2)"
+if exist "Koobface.NCF (5)" del /f /a:h "Koobface.NCF (5)"
+if exist Kryptik.AGC del /f /a:h Kryptik.AGC
+if exist Kryptik.AGD del /f /a:h Kryptik.AGD
+if exist Kryptik.AGE del /f /a:h Kryptik.AGE
+if exist Kryptik.AGF del /f /a:h Kryptik.AGF
+if exist Merond.C del /f /a:h Merond.C
+if exist Merond.O del /f /a:h Merond.O
+if exist Olmarik.IF del /f /a:h Olmarik.IF
+if exist Olmarik.KW del /f /a:h Olmarik.KW
+if exist "Olmarik.LE (2)" del /f /a:h "Olmarik.LE (2)"
+if exist "Olmarik.LF (2)" del /f /a:h "Olmarik.LF (2)"
+if exist Patched.BJ del /f /a:h Patched.BJ
+if exist PSW.OnLineGames.NMP del /f /a:h PSW.OnLineGames.NMP
+if exist "PSW.OnLineGames.NNU (4)" del /f /a:h "PSW.OnLineGames.NNU (4)"
+if exist PSW.OnLineGames.ODJ del /f /a:h PSW.OnLineGames.ODJ
+if exist PSW.OnLineGames.ONE del /f /a:h PSW.OnLineGames.ONE
+if exist Spy.Banker.PDM del /f /a:h Spy.Banker.PDM
+if exist Spy.Banker.SAI del /f /a:h Spy.Banker.SAI
+if exist Spy.Banker.SBB del /f /a:h Spy.Banker.SBB
+if exist Spy.Delf.NXB del /f /a:h Spy.Delf.NXB
+if exist Spy.Delf.NXF del /f /a:h Spy.Delf.NXF
+if exist Spy.Zbot.JF del /f /a:h Spy.Zbot.JF
+if exist TrojanClicker.Delf.NGK del /f /a:h TrojanClicker.Delf.NGK
+if exist TrojanClicker.Delf.NIH del /f /a:h TrojanClicker.Delf.NIH
+if exist TrojanDownloader.Agent.PKN del /f /a:h TrojanDownloader.Agent.PKN
+if exist TrojanDownloader.Bredolab.AA del /f /a:h TrojanDownloader.Bredolab.AA
+if exist TrojanDownloader.FakeAlert.AHH del /f /a:h TrojanDownloader.FakeAlert.AHH
+if exist TrojanDownloader.VB.OCQ del /f /a:h TrojanDownloader.VB.OCQ
+if exist "TrojanDownloader.VB.OCR (2)" del /f /a:h "TrojanDownloader.VB.OCR (2)"
+if exist Waledac del /f /a:h Waledac
+if exist TrojanDownloader.Ftp.NER del /f /a:h TrojanDownloader.Ftp.NER 
+if exist Iservice.AA del /f /a:h Iservice.AA 
+if exist Iservice.AB del /f /a:h Iservice.AB 
+if exist "JaH lav.D(2)" del /f /a:h "JaH lav.D(2)" 
+if exist "JaH lav.NAB(3)" del /f /a:h "JaH lav.NAB(3)" 
+if exist JaH lav.NAC(2) del /f /a:h JaH lav.NAC(2) 
+if exist Tored.AA del /f /a:h Tored.AA 
+if exist Agent.NBU(2) del /f /a:h Agent.NBU(2) 
+if exist Adware.InternetAntivirus del /f /a:h Adware.InternetAntivirus 
+if exist "Adware.KwSearcH Guide(2)" del /f /a:h "Adware.KwSearcH Guide(2)" 
+if exist Adware.MalwareRemoval del /f /a:h Adware.MalwareRemoval 
+if exist Adware.SystemSecurity del /f /a:h Adware.SystemSecurity 
+if exist Agent.PZD del /f /a:h Agent.PZD 
+if exist Agent.PZE(2) del /f /a:h Agent.PZE(2) 
+if exist Agent.PZF(2) del /f /a:h Agent.PZF(2) 
+if exist Agent.PZG(2) del /f /a:h Agent.PZG(2)
+if exist Agent.WPI del /f /a:h Agent.WPI 
+if exist AutoRun.ABH del /f /a:h AutoRun.ABH  
+if exist AutoRun.Agent.PU del /f /a:h AutoRun.Agent.PU 
+if exist AutoRun.AntiAV.J del /f /a:h AutoRun.AntiAV.J 
+if exist AutoRun.PSW.OnlineGames.AE(3) del /f /a:h AutoRun.PSW.OnlineGames.AE(3)
+if exist "BH O.NPE" del /f /a:h "BH O.NPE"
+if exist Delf.NCY(3) del /f /a:h Delf.NCY(3) 
+if exist Delf.NCZ(9) del /f /a:h Delf.NCZ(9) 
+if exist Delf.NNP del /f /a:h Delf.NNP 
+if exist Delf.ORD del /f /a:h Delf.ORD 
+if exist Downloader.NAE del /f /a:h Downloader.NAE 
+if exist FlyStudio.NRV del /f /a:h FlyStudio.NRV 
+if exist HackAV.CN del /f /a:h HackAV.CN 
+if exist Induc.A(2) del /f /a:h Induc.A(2) 
+if exist IRCBot.APC del /f /a:h IRCBot.APC 
+if exist KillAV.NES(6) del /f /a:h KillAV.NES(6) 
+if exist Koutodoor.CV del /f /a:h Koutodoor.CV 
+if exist Koutodoor.DI(3) del /f /a:h Koutodoor.DI(3) 
+if exist Kryptik.AFV del /f /a:h Kryptik.AFV 
+if exist Kryptik.AFW del /f /a:h Kryptik.AFW 
+if exist Merond.O del /f /a:h Merond.O 
+if exist Naprat.B del /f /a:h Naprat.B 
+if exist PSW.Agent.NMP del /f /a:h PSW.Agent.NMP 
+if exist PSW.OnLineGames.MUG del /f /a:h PSW.OnLineGames.MUG 
+if exist PSW.OnLineGames.NAQ(2) del /f /a:h PSW.OnLineGames.NAQ(2) 
+if exist "PSW.OnLineGames.NH F" del /f /a:h "PSW.OnLineGames.NH F"
+if exist PSW.OnLineGames.NRD(10) del /f /a:h PSW.OnLineGames.NRD(10) 
+if exist PSW.OnLineGames.OLM del /f /a:h PSW.OnLineGames.OLM 
+if exist PSW.OnLineGames.OMW del /f /a:h PSW.OnLineGames.OMW 
+if exist PSW.OnLineGames.OWK del /f /a:h PSW.OnLineGames.OWK 
+if exist PSW.OnLineGames.OWP del /f /a:h PSW.OnLineGames.OWP 
+if exist Rbot del /f /a:h Rbot 
+if exist SpamTool.Agent.NCL del /f /a:h SpamTool.Agent.NCL 
+if exist Spy.Banker.QLP del /f /a:h Spy.Banker.QLP 
+if exist "Spy.BankpatcH .CE" del /f /a:h "Spy.BankpatcH .CE" 
+if exist Spy.Zbot.JF(6) del /f /a:h Spy.Zbot.JF(6) 
+if exist "TrojanDownloader.Agent.NH H" del /f /a:h "TrojanDownloader.Agent.NH H"  
+if exist TrojanDownloader.Bredolab.AA(4) del /f /a:h TrojanDownloader.Bredolab.AA(4) 
+if exist TrojanDownloader.Bredolab.AK del /f /a:h TrojanDownloader.Bredolab.AK 
+if exist TrojanDownloader.Caxnet.AH del /f /a:h TrojanDownloader.Caxnet.AH  
+if exist TrojanDownloader.Caxnet.AI del /f /a:h TrojanDownloader.Caxnet.AI 
+if exist TrojanDownloader.FakeAlert.ADA del /f /a:h TrojanDownloader.FakeAlert.ADA 
+if exist TrojanDownloader.FakeAlert.AEJ del /f /a:h TrojanDownloader.FakeAlert.AEJ 
+if exist TrojanDownloader.FakeAlert.AGZ del /f /a:h TrojanDownloader.FakeAlert.AGZ 
+if exist TrojanDownloader.FakeAlert.GU del /f /a:h TrojanDownloader.FakeAlert.GU 
+if exist TrojanDropper.Delf.NAQ del /f /a:h TrojanDropper.Delf.NAQ 
+if exist TrojanDropper.Delf.NOQ del /f /a:h TrojanDropper.Delf.NOQ 
+if exist VB.OLI del /f /a:h VB.OLI 
+if exist VB.OLJ(2) del /f /a:h VB.OLJ(2) 
+if exist VB.OLK del /f /a:h VB.OLK 
+if exist VB.OLL(2) del /f /a:h VB.OLL(2) 
+if exist Wigon.LE del /f /a:h Wigon.LE
+if exist d.cmd del /f /a:h d.cmd
+if exist 83fgj.com del /f /a:h 83fgj.com
+if exist mnl6on3.com del /f /a:h mnl6on3.com
+if exist n.com del /f /a:h n.com
+if exist u9dyi.exe del /f /a:h u9dyi.exe
+if exist yssjnngm.cmd del /f /a:h yssjnngm.cmd
+if exist 6133t.exe del /f /a:h 6133t.exe
+if exist GLB.PIF del /f /a:h GLB.PIF
+if exist ckvo.exe del /f /a:h ckvo.exe
+if exist ckvo1.dll del /f /a:h ckvo1.dll
+if exist dllcache del /f /a:h dllcache
+if exist 2.cmd del /f /a:h 2.cmd
+if exist GLXB.PIF del /f /a:h GLXB.PIF
+if exist sqmdata13.sqm del /f /a:h sqmdata13.sqm
+if exist cooquowx.exe del /f /a:h cooquowx.exe
+if exist cooquow.exe del /f /a:h cooquow.exe
+if exist fuake.exe del /f /a:h fuake.exe
+if exist fuakex.exe del /f /a:h fuakex.exe
+if exist yeueme.exe del /f /a:h yeueme.exe
+if exist yeuemex.exe del /f /a:h yeuemex.exe
+if exist saihoi.exe del /f /a:h saihoi.exe
+if exist saihoix.exe del /f /a:h saihoix.exe
+if exist Windows32Update.exe del /f /a:h Windows32Update.exe
+if exist Windows32Shield.exe del /f /a:h Windows32Shield.exe
+if exist autorun.exe del /f /a:h autorun.exe
+if exist X.mpeg del /f /a:h X.mpeg
+if exist RECYCLER RD RECYCLER
+stop run
+msg * TROJAN DELETED SUCCESSFULLY!!!!
